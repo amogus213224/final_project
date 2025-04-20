@@ -131,5 +131,5 @@ def func(message):
 
 
 if __name__ == '__main__':
-     manager2 = Database_Manager(DATABASE)
-     bot.polling(none_stop=True)
+    manager2 = Database_Manager(DATABASE)
+    bot.polling(none_stop=True)
